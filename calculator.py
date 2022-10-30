@@ -2,6 +2,7 @@ def add(i, j):
     return i + j
 
 # test cases
+# test cases for add method
 result1 = add(10, 20)
 print(result1)
 if result1 == 30:
